@@ -111,9 +111,9 @@ const Hero = () => {
               transition={{ delay: 0.3, duration: 0.8 }}
               className="text-5xl md:text-6xl lg:text-7xl xl:text-8xl font-extrabold tracking-tighter mb-6"
             >
-              <span className="text-foreground uppercase" style={{ letterSpacing: '-0.05em' }}>{t('hero.firstName')}</span>
+              <span className="text-foreground uppercase tracking-[-0.05em]">{t('hero.firstName')}</span>
               <br />
-              <span className="text-gradient-primary uppercase" style={{ letterSpacing: '0.1em' }}>{t('hero.lastName')}</span>
+              <span className="text-gradient-primary uppercase tracking-[0.1em]">{t('hero.lastName')}</span>
             </motion.h1>
 
             {/* Title */}

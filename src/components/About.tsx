@@ -40,11 +40,7 @@ const About = () => {
         <img
           src="/KFS.png"
           alt=""
-          className="w-full h-auto object-contain opacity-[0.1]"
-          style={{
-            maskImage: 'linear-gradient(to right, black, transparent)',
-            WebkitMaskImage: 'linear-gradient(to right, black, transparent)'
-          }}
+          className="w-full h-auto object-contain opacity-[0.1] [mask-image:linear-gradient(to_right,black,transparent)] [-webkit-mask-image:linear-gradient(to_right,black,transparent)]"
         />
       </div>
       <div className="container px-6 relative z-10">
