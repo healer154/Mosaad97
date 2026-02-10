@@ -1,0 +1,235 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "experience": "Experience",
+    "projects": "Projects",
+    "skills": "Skills",
+    "testimonials": "Testimonials",
+    "contact": "Contact",
+    "resume": "Resume"
+  },
+  "hero": {
+    "badge": "Available for opportunities",
+    "firstName": "Mohamed",
+    "lastName": "Saad",
+    "title": "Mechatronics Engineer",
+    "subtitle": "Transforming complex engineering challenges into elegant mechanical solutions. Specializing in CAD, FEA, and precision design.",
+    "yearsExp": "+4",
+    "yearsLabel": "Years Experience",
+    "projectsCount": "200+",
+    "projectsLabel": "Projects Delivered",
+    "companiesCount": "3",
+    "companiesLabel": "Companies",
+    "scrollText": "Scroll to explore"
+  },
+  "about": {
+    "label": "01 — About",
+    "heading": "Engineering",
+    "headingHighlight": "Innovation",
+    "p1": "Innovative Mechanical Design Engineer with expertise in transformers, oil & gas equipment, and advanced mechanical systems. I specialize in CAD modeling, FEA, and end-to-end design workflows.",
+    "p2": "With proven success in API-standard rig projects, reverse engineering, and precision design of transformer assemblies, I'm known for cross-team collaboration and delivering reliable, high-quality solutions.",
+    "degree": "B.Sc. Mechatronics Engineering",
+    "university": "Kafr-Elsheikh University — 2023",
+    "highlights": {
+      "mechatronics": {
+        "title": "Mechatronics",
+        "description": "Integration of mechanical, electronic, and software systems"
+      },
+      "cad": {
+        "title": "CAD Expertise",
+        "description": "SolidWorks, AutoCAD, Inventor, Fusion 360, Solid Edge"
+      },
+      "rd": {
+        "title": "R&D Focus",
+        "description": "Innovative solutions for complex engineering problems"
+      },
+      "precision": {
+        "title": "Precision",
+        "description": "API-standard compliance and FEA validation"
+      }
+    }
+  },
+  "experience": {
+    "label": "02 — Experience",
+    "heading": "Professional",
+    "headingHighlight": "Journey",
+    "current": "Current",
+    "jobs": {
+      "elsewedy": {
+        "company": "ELSEWEDY ELECTRIC",
+        "role": "Mechanical Design Engineer (R&D)",
+        "period": "Mar 2024 – Present",
+        "location": "10th of Ramadan, Egypt",
+        "responsibilities": [
+          "Design parametric models to accelerate transformer development process",
+          "Create standardized drawings for production and quality consistency",
+          "Perform FEA and mechanical testing for design validation",
+          "Prepare accurate bill of materials for active part assemblies",
+          "Collaborate across teams to integrate mechanical and control systems"
+        ]
+      },
+      "energyShields": {
+        "company": "Energy Shield",
+        "role": "Mechanical Design Engineer (R&D)",
+        "period": "Dec 2024 – Mar 2025",
+        "location": "Maadi, Egypt",
+        "responsibilities": [
+          "Delivered projects for ADES and MDC (Modern Drilling Company) with API certified rig builder",
+          "Led R&D initiatives to develop and enhance rig components",
+          "Reverse engineered rig components for maintenance and refurbishment",
+          "Designed steel structures including masts and setback areas",
+          "Produced CAD models and fabrication drawings to API standards"
+        ]
+      },
+      "muwazi": {
+        "company": "Muwazi Office",
+        "role": "Mechanical Designer (Remote Intern)",
+        "period": "Nov 2019 – Oct 2023",
+        "location": "Qalioub, Egypt",
+        "responsibilities": [
+          "Delivered 200+ mechanical design projects using advanced CAD tools",
+          "Designed and manufactured CNC machines and 3D printers",
+          "Created wiring diagrams and supervised control panel assembly",
+          "Managed full design lifecycle from concept to production"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "label": "03 — Projects",
+    "heading": "Featured",
+    "headingHighlight": "Work",
+    "subtitle": "A selection of engineering projects spanning oil & gas, manufacturing, and product design.",
+    "items": {
+      "adesToolbox": {
+        "title": "ADES Custom Toolbox",
+        "category": "Oil & Gas",
+        "description": "Designed a custom toolbox for transporting drilling pipes to the rig, optimizing workflow and safety."
+      },
+      "napscoMud": {
+        "title": "NPSCO (National Petroleum service company) Mud System",
+        "category": "Reverse Engineering",
+        "description": "Built and reverse-engineered a complete mud system, carried out setback area maintenance including structural repairs."
+      },
+      "sinoTharwa": {
+        "title": "MDC (Modern Drilling Company) Setback Rebuild",
+        "category": "Structural Design",
+        "description": "Full dismantling, structural rebuild, and creation of an as-built model for setback area maintenance."
+      },
+      "productionLines": {
+        "title": "Production Lines & CNC",
+        "category": "Manufacturing",
+        "description": "Designed advanced production lines, CNC machines, and 3D printers. Created sheet-metal lockers and plastic molds."
+      },
+      "consumerProducts": {
+        "title": "Consumer Products",
+        "category": "Product Design",
+        "description": "Engineered innovative products including washing machines, choppers, microwaves, and a mini-bus with coffee equipment."
+      },
+      "safetyConcepts": {
+        "title": "Safety & Utility Concepts",
+        "category": "Concept Design",
+        "description": "Developed anti-collision helmet, mobile gas station, mobile ICU, and umbrella systems inspired by Makkah's Haram."
+      }
+    },
+    "grabcad": {
+      "label": "CAD Portfolio",
+      "heading": "GrabCAD",
+      "headingHighlight": "Models",
+      "models": "Models",
+      "followers": "Followers",
+      "viewProfile": "View GrabCAD Profile",
+      "items": {
+        "mb3dp": {
+          "title": "Moving Bed 3D Printer - MB3DP"
+        },
+        "sandSweepBot": {
+          "title": "Sand Sweep Bot - SSB"
+        },
+        "smartHelmet": {
+          "title": "Smart Helmet - Conceptual Design"
+        },
+        "watch": {
+          "title": "Hand Watch Design"
+        }
+      }
+    },
+    "instagram": {
+      "label": "Design Renders",
+      "heading": "Instagram",
+      "headingHighlight": "Portfolio",
+      "posts": "Posts",
+      "followers": "Followers",
+      "viewProfile": "View Instagram Profile",
+      "subtitle": "Explore photorealistic renders and design visualizations"
+    }
+  },
+  "skills": {
+    "label": "04 — Skills",
+    "heading": "Technical",
+    "headingHighlight": "Expertise",
+    "categories": {
+      "cad": {
+        "title": "CAD Software",
+        "skills": [
+          "SolidWorks",
+          "AutoCAD",
+          "Inventor",
+          "Fusion 360",
+          "Solid Edge"
+        ]
+      },
+      "analysis": {
+        "title": "Analysis & Simulation",
+        "skills": [
+          "ANSYS",
+          "FEA",
+          "Automation Studio"
+        ]
+      },
+      "programming": {
+        "title": "Programming",
+        "skills": [
+          "Python",
+          "MATLAB",
+          "PLC",
+          "C/C++",
+          "C#"
+        ]
+      }
+    }
+  },
+  "testimonials": {
+    "label": "06 — Testimonials",
+    "heading": "Client",
+    "headingHighlight": "Feedback",
+    "subtitle": "What clients say about working with me on Upwork projects.",
+    "viewProfile": "View Upwork Profile",
+    "items": {
+      "toy": {
+        "project": "Convert JPG Image to OBJ File with Measurements For two children toys",
+        "feedback": "Mohamed was a pleasure to work with. He was very communicative and professional throughout the project, providing regular updates and responding promptly to any questions I had. His knowledge and expertise in his field was evident, and he completed the project quickly and efficiently. Overall, I would highly recommend him for his excellent communication skills, professionalism, knowledge, and speed to completion. Great job!",
+        "location": "United States"
+      },
+      "brush": {
+        "project": "CAD designer needed to do a 3D model of a makeup brush",
+        "feedback": "Very professional, amazing work, high quality delivery and amazing fluency in English. Definitely recommend for every project possible.",
+        "location": "Macedonia"
+      }
+    }
+  },
+  "contact": {
+    "label": "05 — Contact",
+    "heading": "Let's Build",
+    "headingHighlight": "Together",
+    "subtitle": "I'm always open to discussing new projects, creative ideas, or opportunities to be part of your engineering vision.",
+    "location": "Egypt",
+    "getInTouch": "Get In Touch",
+    "downloadResume": "Download Resume",
+    "footer": {
+      "copyright": "© 2025 Mohamed Saad. All rights reserved.",
+      "tagline": "Designed & Built with precision"
+    }
+  }
+}
